@@ -1,5 +1,5 @@
 alist_proxy==0.1.3.2
 python-emby-proxy==0.0.3
-p115dav==0.0.9.3.2
+p115dav==0.0.9.3.4
 p115tiny302==0.1.0
 p115nano302==0.1.0.1
